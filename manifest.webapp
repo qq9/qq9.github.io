@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "type": "web",
+  "name": "QQ",
+  "description": "QQ",
+  "icons":{
+    "128": "http://oouyang.github.io/qq/img/QQ1.png"
+  },
+  "launch_path": "/qq/index.html",
+  "developer": {
+    "name": "Owen Ouyang",
+      "url": "https://github.com/oouyang"
+  },
+  "default_locale": "en",
+  "locales": {
+    "en-US": {
+      "name": "QQ",
+      "description": "Marker all Taipei UBike sites in google map"
+    }
+  }
+}
