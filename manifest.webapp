@@ -4,7 +4,7 @@
   "name": "QQ",
   "description": "QQ",
   "icons":{
-    "128": "http://oouyang.github.io/qq/img/QQ1.png"
+    "128": "http://oouyang.github.io/qq/img/qq3.png"
   },
   "launch_path": "/qq/index.html",
   "developer": {
@@ -15,7 +15,7 @@
   "locales": {
     "en-US": {
       "name": "QQ",
-      "description": "Marker all Taipei UBike sites in google map"
+      "description": "The QQ you use"
     }
   }
 }
